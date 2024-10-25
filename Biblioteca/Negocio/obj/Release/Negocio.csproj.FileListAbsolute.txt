@@ -1,0 +1,9 @@
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Negocio\bin\Release\Negocio.dll
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Negocio\bin\Release\Negocio.pdb
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Negocio\bin\Release\Datos.dll
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Negocio\bin\Release\DTO.dll
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Negocio\bin\Release\Datos.pdb
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Negocio\bin\Release\DTO.pdb
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Negocio\obj\Release\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Negocio\obj\Release\Negocio.dll
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Negocio\obj\Release\Negocio.pdb

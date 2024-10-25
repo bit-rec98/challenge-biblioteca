@@ -1,0 +1,7 @@
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Datos\bin\Release\Datos.dll
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Datos\bin\Release\Datos.pdb
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Datos\bin\Release\DTO.dll
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Datos\bin\Release\DTO.pdb
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Datos\obj\Release\Datos.dll
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Datos\obj\Release\Datos.pdb

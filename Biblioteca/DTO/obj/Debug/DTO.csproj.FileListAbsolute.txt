@@ -1,0 +1,5 @@
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\DTO\bin\Debug\DTO.dll
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\DTO\bin\Debug\DTO.pdb
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\DTO\obj\Debug\DTO.dll
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\DTO\obj\Debug\DTO.pdb

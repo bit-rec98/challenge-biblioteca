@@ -1,0 +1,12 @@
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\bin\Debug\Datos.dll
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\bin\Debug\Datos.pdb
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\bin\Debug\Negocio.dll
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\bin\Debug\DTO.dll
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\bin\Debug\DTO.pdb
