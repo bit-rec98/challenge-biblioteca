@@ -1,5 +1,6 @@
-﻿using DTO;
-using Negocio;
+﻿using DATOS;
+using DTO;
+using NEGOCIO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,7 +27,12 @@ namespace Presentacion
                         try
                         {
                             Console.Write("Autores existentes en la base de datos: \n");
-                            BL_Autor datosAutores = new BL_Autor();
+
+                            // Implementación de interfaz con método para obtener autores - no se implementa DAO_Autor directamente 
+                            IDAO_Autor _daoAutor = new DAO_Autor();
+
+                            // Interacción con capa de negocio
+                            BL_Autor datosAutores = new BL_Autor(_daoAutor); 
                             listaAutores = datosAutores.mostrarAutores();
 
                             foreach(DTO_Autor item in listaAutores)
@@ -45,7 +51,6 @@ namespace Presentacion
                         break;
                     case 0:
                         Console.Write("¡Gracias por utilizar el servicio!\n");
-
                         break;
                     default:
                         Console.WriteLine("Opción inválida, intentá nuevamente.\n\n\n");

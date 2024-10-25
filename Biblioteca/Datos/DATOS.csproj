@@ -41,9 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAO_Autor.cs" />
-    <Compile Include="DAO_iAutor.cs" />
-    <Compile Include="DAO_ILibro.cs" />
-    <Compile Include="DAO_Libro.cs" />
+    <Compile Include="IDAO_Autor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

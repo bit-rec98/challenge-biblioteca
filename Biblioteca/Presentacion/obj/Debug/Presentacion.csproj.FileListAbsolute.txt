@@ -10,3 +10,5 @@ C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\bin
 C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\bin\Debug\Presentacion.exe.config
 C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\bin\Debug\DTO.dll
 C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\bin\Debug\DTO.pdb
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\bin\Debug\SimpleInjector.dll
+C:\Users\reccb\Documents\Visual Studio 2015\Projects\Biblioteca\Presentacion\bin\Debug\SimpleInjector.xml
